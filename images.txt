@@ -1,3 +1,4 @@
 mysql:5.7
 redis:6.2.19
 redis:5.0.14
+nginx:latest
