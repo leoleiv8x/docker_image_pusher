@@ -19,3 +19,6 @@ elasticsearch:7.17.9
 kibana:7.17.9
 prom/prometheus:v2.46.0
 grafana/grafana:9.5.2
+calico-cni:v3.23.5
+calico-node:v3.23.5
+calico-kube-controllers:v3.23.5
